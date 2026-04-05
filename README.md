@@ -38,4 +38,4 @@ Hi 👋, I'm Aman Kumar
 - 📞 WhatsApp: +91 7017412557## Hi there 👋
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bullbearmarket&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bullbearmarket&show_icons=true&cache_seconds=86400)
