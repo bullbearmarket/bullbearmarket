@@ -7,7 +7,7 @@ Hi 👋, I'm Aman Kumar
 🔥 About Me
 
 - 🌱 Currently learning Web Development
-- 📈 Built Trading Risk Calculator
+- 📈 Built Stock Market app and web, Trading Risk Calculator
 - 🤝 Contributing to Open Source (GitHub)
 
 ---
