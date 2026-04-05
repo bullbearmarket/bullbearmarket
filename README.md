@@ -1,41 +1,43 @@
-Hi 👋, I'm Aman Kumar
+# Hi 👋, I'm Aman Kumar
 
-🚀 Aspiring Web Developer | Open Source Contributor
-
----
-
-🔥 About Me
-
-- 🌱 Currently learning Web Development
-- 📈 Built Stock Market app and web, Trading Risk Calculator
-- 🤝 Contributing to Open Source (GitHub)
+🚀 Aspiring Web Developer | Open Source Contributor  
 
 ---
 
-🛠️ Tech Stack
-
-- HTML, CSS, JavaScript
-- Git & GitHub
-
----
-
-🚀 Projects
-
-- 📊 Trading Risk Calculator
-- 📱 BullBear Market
+## 🔥 About Me
+- 🌱 Currently learning Web Development  
+- 💻 Built Stock Market App & Trading Risk Calculator  
+- 🚀 Active Open Source Contributor  
 
 ---
 
-📊 GitHub Stats
-
-- 🔥 Active Contributor
-- 📌 Working on real-world projects
+## 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
 
 ---
 
-📫 Contact
+## 🚀 Projects
+- 📊 Trading Risk Calculator  
+- 📈 BullBear Market  
 
-- 📞 WhatsApp: +91 7017412557## Hi there 👋
+---
 
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=bullbearmarket&show_icons=true&theme=tokyonight" />
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bullbearmarket&show_icons=true)
+---
+
+## 🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com/?user=bullbearmarket&theme=tokyonight" />
+
+---
+
+## 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=bullbearmarket&label=Profile%20views&color=0e75b6&style=flat" />
+
+---
+
+## 📫 Contact
+📱 WhatsApp: +91 7017412557
