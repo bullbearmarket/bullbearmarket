@@ -1,36 +1,42 @@
-# Hi 👋, I'm Aman Kumar
+# Hi 👋, I'm Aman Kumar  
 
-🚀 Aspiring Web Developer | Open Source Contributor  
+🚀 **Aspiring Web Developer | Open Source Contributor**  
+💡 Building real-world projects & learning consistently  
 
 ---
 
 ## 🔥 About Me
 - 🌱 Currently learning Web Development  
-- 💻 Built Stock Market App & Trading Risk Calculator  
-- 🚀 Active Open Source Contributor  
+- 💻 Built **Stock Market App** & **Trading Risk Calculator**  
+- 🤝 Contributing to Open Source (GitHub)  
 
 ---
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
 </p>
 
 ---
 
 ## 🚀 Projects
-- 📊 Trading Risk Calculator  
-- 📈 BullBear Market  
+- 📊 **Trading Risk Calculator** – Helps traders manage risk per trade  
+- 📈 **BullBear Market** – Stock market learning platform  
 
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=bullbearmarket&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bullbearmarket&show_icons=true&theme=tokyonight" />
 
 ---
 
 ## 🔥 Contribution Streak
-<img src="https://streak-stats.demolab.com/?user=bullbearmarket&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=bullbearmarket&theme=tokyonight" />
+
+---
+
+## 📈 Top Languages
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bullbearmarket&layout=compact&theme=tokyonight" />
 
 ---
 
@@ -39,5 +45,13 @@
 
 ---
 
+## 🏆 Achievements
+- 🚀 Active Open Source Contributor  
+- 🔥 Consistent GitHub Activity  
+- 💡 Building real-world projects  
+
+---
+
 ## 📫 Contact
-📱 WhatsApp: +91 7017412557
+📧 Email: moneymaker.earnmoney@gmail.com  
+🔗 GitHub: https://github.com/bullbearmarket
